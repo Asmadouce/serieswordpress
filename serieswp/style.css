@@ -1,0 +1,58 @@
+/**
+*Template Name: serieswp
+*Template: twentynineteen
+*/
+
+.custom-logo
+{
+    width:80px;
+    height:80px;
+}
+
+#sidebar-2 {
+    float: left;
+    padding: 0% 0 3%;
+    margin-right: 150px;
+    width: 78px;
+}
+.as
+{
+     background-color:rgb(201, 196, 196);opacity:0.6;
+     
+} 
+.position
+{
+    float: left;
+    margin-right: 50px; 
+
+    width: 200px; 
+  
+} 
+.grey
+{
+    padding-bottom:50px;
+    background-color:rgb(133, 130, 130);opacity:0.9;
+}
+.card
+{
+   margin-right:5px; 
+   margin-bottom:5px;
+}
+.btn-dark
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.img
+{
+    margin-top: 35px;
+}
+.rond
+{
+    border-radius: 20px;
+    padding:50px;
+}
+.taxo
+{
+    padding:50px;
+}
